@@ -14,7 +14,7 @@
 
 package oc
 
-// Preparation to run the generator with new YANG files:
+// Preparation to run the generator with new YANG files: (pre 4.4.0)
 
 // Comment/remove following sections from file yang/extensions/openconfig-platform-ext.yang in section
 // "augment /oc-pf:components/oc-pf:component/oc-transceiver:transceiver/oc-transceiver:state", line 148):
