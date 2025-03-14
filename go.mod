@@ -13,7 +13,7 @@ require (
 	github.com/golang/glog v1.2.4 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/kylelemons/godebug v1.1.0 // indirect
-	github.com/openconfig/gnmi v0.13.0 // indirect
+	github.com/openconfig/gnmi v0.14.0 // indirect
 	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c // indirect
 	golang.org/x/net v0.34.0 // indirect
 	golang.org/x/sys v0.29.0 // indirect
